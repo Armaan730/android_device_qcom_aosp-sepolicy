@@ -3,7 +3,7 @@
 #
 # If you want to use these policies, add a
 # 
-# include device/sony/sepolicy/sepolicy.mk
+# include device/qcom/aosp-sepolicy/sepolicy.mk
 #
 # to your device's BoardConfig. It is highly recommended that in case
 # you have your own BOARD_SEPOLICY_DIRS and BOARD_SEPOLICY_UNION declarations,
